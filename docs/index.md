@@ -63,16 +63,11 @@ Deploying this service instance requires accessing and creating some Alibaba Clo
 
 4.Wait for deployment to complete before entering service instance management.
 
-5.Find the CubeJs and Dashboard links in the console and access them.
+5.Find CubeJs and Dashboard links in the console and copy them to the browser to access them.
 
 ![image.png](5.png)
-
-> If there is an error on the page below, please change the URL to<? Spm=*******>Manually deleting can access it normally.
-
 ![image.png](6.png)
 ![image.png](7.png)
-![image.png](8.png)
-![image.png](9.png)
 
 ## Reference documents
 https://github.com/alibabacloud-howto/opensource_with_apsaradb/blob/main/cubejs/postgresql/README.md
